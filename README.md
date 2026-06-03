@@ -4,18 +4,19 @@ Welcome to my repository for the **Cognizant Digital Nurture 5.0 Program**. This
 
 ## Module 1 : HTML5 Upskilling 
 This module consists of 10 Tasks starting from header, navigation bar to chrome dev tools inspection.
-![Output 1 - html](https://github.com/mohancoder2k/Cognizant-Digital-Nurture-5.0-Java-FSE-by-Mohan-B/blob/main/Upskilling%20-%20Mohan%20B/Module%201%20-%20HTML5/Output1.png?raw=true)
-![Output 2 - html]( https://github.com/mohancoder2k/Cognizant-Digital-Nurture-5.0-Java-FSE-by-Mohan-B/blob/main/Upskilling%20-%20Mohan%20B/Module%201%20-%20HTML5/Output2.png?raw=true)
-![Output 3 - html](https://github.com/mohancoder2k/Cognizant-Digital-Nurture-5.0-Java-FSE-by-Mohan-B/blob/main/Upskilling%20-%20Mohan%20B/Module%201%20-%20HTML5/Output3.png?raw=true)
+![Output 1 - html](https://github.com/mohancoder2k/Cognizant-Digital-Nurture-5.0-Java-FSE-by-Mohan-B/blob/main/Upskilling%20-%20Mohan%20B/Module%201.1%20-%20HTML5/Output1.png?raw=true)
 
 ## Module 1 : CSS3 Upskilling
 After Applying CSS to the duplicate HTML template of Module 1 . 
 
-![](https://github.com/mohancoder2k/Cognizant-Digital-Nurture-5.0-Java-FSE-by-Mohan-B/blob/main/Upskilling%20-%20Mohan%20B/Module%201%20-%20CSS3/css1.png?raw=true)
+![](https://github.com/mohancoder2k/Cognizant-Digital-Nurture-5.0-Java-FSE-by-Mohan-B/blob/main/Upskilling%20-%20Mohan%20B/Module%201.2%20-%20CSS3/css1.png?raw=true)
 
+## Module 1 : JavaScript Upskilling
 
+![](https://github.com/mohancoder2k/Cognizant-Digital-Nurture-5.0-Java-FSE-by-Mohan-B/blob/main/Upskilling%20-%20Mohan%20B/Module%201.3%20-%20JavaScript/05_exercise_11-13/output12.png?raw=true)
 
-![](https://github.com/mohancoder2k/Cognizant-Digital-Nurture-5.0-Java-FSE-by-Mohan-B/blob/main/Upskilling%20-%20Mohan%20B/Module%201%20-%20CSS3/Screenshot%20(349).png?raw=true)
+## Module 1 : Bootstrap Upskilling
+!(){}
 ##  Module 3: Core Java Upskilling
 
 This section covers the fundamental and advanced concepts of Java. Below is the documentation of my environment setup and development workflow.
