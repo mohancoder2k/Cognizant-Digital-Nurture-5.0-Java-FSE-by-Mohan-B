@@ -1,0 +1,24 @@
+# Target build directory (Maven packages)
+target/
+*.jar
+*.war
+*.ear
+
+# Eclipse project artifacts
+.metadata/
+.classpath
+.project
+.settings/
+Bin/
+
+# IntelliJ IDEA project artifacts
+.idea/
+*.iml
+*.iws
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
