@@ -31,7 +31,7 @@ I am highly interested and preparing to dive into the following advanced framewo
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Programming Language:** Java
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap 5*
@@ -43,7 +43,7 @@ I am highly interested and preparing to dive into the following advanced framewo
 
 ---
 
-## 💻 Development Environment
+##  Development Environment
 
 The following tools are used throughout the program:
 
@@ -54,7 +54,7 @@ The following tools are used throughout the program:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Mohan B**
 
