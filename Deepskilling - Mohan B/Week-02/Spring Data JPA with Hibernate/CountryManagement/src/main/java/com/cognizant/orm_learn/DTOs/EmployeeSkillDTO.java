@@ -1,7 +1,9 @@
 package com.cognizant.orm_learn.DTOs;
 
-import java.math.BigDecimal;
-import java.sql.Date;
+import java.util.List;
+import java.util.Set;
+
+import com.cognizant.orm_learn.model.Skill;
 
 import jakarta.persistence.Column;
 import lombok.AllArgsConstructor;
@@ -13,11 +15,9 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class EmployeeDTO {
-	private int id;	
-	private String name;
-	private BigDecimal salary;
-	private Date dob;
-	private String departmentName;
-	
+public class EmployeeSkillDTO {
+	private int id;
+	private String emp_name;
+	private String deptName;
+	private List<Skill> emp_skills;
 }

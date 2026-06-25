@@ -7,5 +7,5 @@ import com.cognizant.orm_learn.model.Employee;
 
 @Repository
 public interface EmployeeRepository extends JpaRepository<Employee, Integer> {
-	public Employee findById(int emp_id);
+
 }	
