@@ -60,12 +60,12 @@ The following tools are used throughout the program:
 
 ---
 
-##  Author
+## Author
 
 **Mohan B**
 
-GitHub: [mohancoder2k](https://github.com/mohancoder2k)
-Linkedin : [mohansarady](https://www.linkedin.com/in/mohan-sarady-539095354/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/mohancoder2k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-sarady-539095354/)
 ---
 
 *This repository is continuously updated as part of the Cognizant Digital Nurture 5.0 learning journey.*
