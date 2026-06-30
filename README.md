@@ -26,6 +26,11 @@ During the first week of deep skilling, I focused on solidifying core engineerin
       * Spring Core with Maven
       * Spring data JPA with Hibernate
 
+### Sharing my journey learning in LinkedIn 
+
+- [ View my LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7477742271195471872/)
+
+
 ###  Upcoming Self-Learning Journey
 I am highly interested and preparing to dive into the following advanced frameworks and architectural styles in the upcoming weeks:
 * Spring REST with Spring Boot 3
