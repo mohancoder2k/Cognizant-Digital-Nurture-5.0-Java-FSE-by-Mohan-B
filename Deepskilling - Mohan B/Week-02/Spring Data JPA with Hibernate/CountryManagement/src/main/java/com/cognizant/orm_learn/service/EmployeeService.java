@@ -8,6 +8,7 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import com.cognizant.orm_learn.DTO.Mappers.EmployeeMapper;
 import com.cognizant.orm_learn.DTOs.EmployeeDTO;
 import com.cognizant.orm_learn.DTOs.EmployeeSkillDTO;
 import com.cognizant.orm_learn.model.Employee;
@@ -18,27 +19,33 @@ import jakarta.transaction.Transactional;
 @Service
 public class EmployeeService {
 	
+	Employee cur_emp;
+	
 	@Autowired
 	private EmployeeRepository emp_repo;
 	
-	Employee cur_emp;
+	@Autowired
+	private EmployeeMapper emp_map;
+	
+	@Transactional
+	public EmployeeDTO getEmployeeById(int e_id) {
+		Employee emp = emp_repo.findById(e_id).get();
+		EmployeeDTO res = emp_map.toDTO(emp);
+		return res;
+	}
+	/*
+	 * @Transactional public EmployeeDTO getEmployeeById(int e_id) { Employee emp =
+	 * emp_repo.findById(e_id).get(); EmployeeDTO res = EmployeeDTO.builder()
+	 * .id(emp.getId()) .name(emp.getName()) .salary(emp.getSalary())
+	 * .dob(emp.getDateOfBirth()) .departmentName(emp.getDepartment().getName())
+	 * .build(); return res; }
+	 */
 	
 	@Transactional
 	public Employee saveEmployee(Employee emp) {
 		return emp_repo.save(emp);
 	}
-	@Transactional
-	public EmployeeDTO getEmployeeById(int e_id) {
-		Employee emp = emp_repo.findById(e_id).get();
-		EmployeeDTO res = EmployeeDTO.builder()
-				.id(emp.getId())
-				.name(emp.getName())
-				.salary(emp.getSalary())
-				.dob(emp.getDateOfBirth())
-				.departmentName(emp.getDepartment().getName())
-				.build();
-		return res;
-	}
+	
 	@Transactional
 	public Employee updateEmployeeSalary(int e_id, BigDecimal updated_salary) {
 		Employee cur_emp = emp_repo.findById(e_id).get(); 

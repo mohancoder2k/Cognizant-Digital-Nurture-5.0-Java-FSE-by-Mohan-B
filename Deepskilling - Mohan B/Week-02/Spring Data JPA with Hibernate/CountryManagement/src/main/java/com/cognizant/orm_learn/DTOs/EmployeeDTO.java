@@ -17,7 +17,7 @@ public class EmployeeDTO {
 	private int id;	
 	private String name;
 	private BigDecimal salary;
-	private Date dob;
+	private Date dateOfBirth;
 	private String departmentName;
 	
 }

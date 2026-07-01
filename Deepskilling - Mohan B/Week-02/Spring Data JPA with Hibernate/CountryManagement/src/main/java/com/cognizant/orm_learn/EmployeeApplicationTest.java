@@ -23,10 +23,10 @@ public class EmployeeApplicationTest {
 		emp_ser =context.getBean(EmployeeService.class);
 		dep_ser = context.getBean(DepartmentService.class);
 	//	testAddNewEmployeeToDb();
-	//	 testGetEmployeeById();
+		 testGetEmployeeById();
 	//	testUpdateEmployeeSalary();
 	//	testUpdateEmployeeDOB();
-		testGetEmployeeSkillSets();
+	// 	testGetEmployeeSkillSets();
 	}
 	public static void testAddNewEmployeeToDb() {
 		System.out.println("Test Started");
