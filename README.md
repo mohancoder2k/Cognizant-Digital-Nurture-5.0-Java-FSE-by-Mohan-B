@@ -1,4 +1,5 @@
-# Cognizant Digital Nurture 5.0 – Deep Skilling: Java Full Stack with Angular
+# Cognizant Digital Nurture 5.0 – Deep Skilling: Java Full Stack Engineer 
+## Domain : Angular - Java Full Stack
 
 Welcome to my repository for the **Cognizant Digital Nurture 5.0 Program**. This repository documents my learning journey, hands-on exercises, and assignments completed as part of the **Java Full Stack Engineering (FSE)** track.
 
@@ -20,15 +21,24 @@ During the first week of deep skilling, I focused on solidifying core engineerin
     * JUnit 5
     * Mockito
     * SLF4J Logging
+ ### Week 2 : Completed 
+ * **Backend Frameworks:**
+      * Spring Core with Maven
+      * Spring data JPA with Hibernate
+
+### Sharing my journey learning in LinkedIn 
+
+- [ View my LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7477742271195471872/)
+
 
 ###  Upcoming Self-Learning Journey
 I am highly interested and preparing to dive into the following advanced frameworks and architectural styles in the upcoming weeks:
-* Spring Core and Maven
-* Spring Data JPA with Spring Boot & Hibernate
 * Spring REST with Spring Boot 3
+* Enhancement and Maintaining Backend Systems using SonarQube
 * Microservices Architecture
 * Angular (Front-End Framework)
-
+* DevOps
+* Gen AI Engineering
 ---
 
 ##  Tech Stack
@@ -36,7 +46,8 @@ I am highly interested and preparing to dive into the following advanced framewo
 - **Programming Language:** Java
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap 5*
 - **Frontend Frameworks :** Angular *(Upcoming)*
-- **Backend Frameworks:** Spring Boot, Hibernate *(Upcoming)*
+- **Backend Frameworks:** Spring Boot, Hibernate
+- **Architectural Frameworks:** Microservices
 - **Database:** MySQL, PL/SQL
 - **Testing:** JUnit, Mockito
 - **Version Control:** Git & GitHub
@@ -54,12 +65,12 @@ The following tools are used throughout the program:
 
 ---
 
-##  Author
+## Author
 
 **Mohan B**
 
-GitHub: [mohancoder2k](https://github.com/mohancoder2k)
-
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/mohancoder2k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-sarady-539095354/)
 ---
 
 *This repository is continuously updated as part of the Cognizant Digital Nurture 5.0 learning journey.*
