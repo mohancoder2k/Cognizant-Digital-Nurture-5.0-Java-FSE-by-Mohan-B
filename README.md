@@ -25,8 +25,17 @@ During the first week of deep skilling, I focused on solidifying core engineerin
  * **Backend Frameworks:**
       * Spring Core with Maven
       * Spring data JPA with Hibernate
+ ### Week 3 : Completed 
+ * **Backend Frameworks:**
+      * Spring REST APIs
+      * Spring Boot 3
+      * JWT Authentication and Security Practices
+ ### Week 4 : Microservices with Spring Boot (On-going)
+ * **Backend Frameworks:**
+      * Eureka Discovery Server and Client
+      * Api - Gateway Integration
 
-### Sharing my journey learning in LinkedIn 
+### Sharing my journey of learning in LinkedIn 
 
 - [ View my LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7477742271195471872/)
 
