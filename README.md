@@ -30,10 +30,16 @@ During the first week of deep skilling, I focused on solidifying core engineerin
       * Spring REST APIs
       * Spring Boot 3
       * JWT Authentication and Security Practices
- ### Week 4 : Microservices with Spring Boot (On-going)
+ ### Week 4 : Microservices with Spring Boot3
  * **Backend Frameworks:**
       * Eureka Discovery Server and Client
       * Api - Gateway Integration
+  
+ ### Week 5 and 6 : Angular Framework
+ * **Backend Frameworks:**
+      * Eureka Discovery Server and Client
+      * Api - Gateway Integration
+   
 
 ### Sharing my journey of learning in LinkedIn 
 
@@ -54,7 +60,7 @@ I am highly interested and preparing to dive into the following advanced framewo
 
 - **Programming Language:** Java
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap 5*
-- **Frontend Frameworks :** Angular *(Upcoming)*
+- **Frontend Frameworks :** Angular
 - **Backend Frameworks:** Spring Boot, Hibernate
 - **Architectural Frameworks:** Microservices
 - **Database:** MySQL, PL/SQL
